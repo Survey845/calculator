@@ -1,5 +1,5 @@
 ## Calculator
-# A basic calculator made using HTML, CSS, Javascript and a CSS Framework called Taiwind.
+# A basic calculator made using HTML, CSS, Javascript and a CSS Framework called Tailwind.
 
 # Features:
 
